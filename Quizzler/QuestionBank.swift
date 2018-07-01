@@ -1,4 +1,4 @@
-'//
+//
 //  QuestionBank.swift
 //  Quizzler
 //
